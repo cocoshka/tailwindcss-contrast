@@ -1,0 +1,30 @@
+{
+  "name": "tailwindcss-contrast",
+  "version": "1.0.0",
+  "description": "Adds contrast colors to Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocoshka/tailwindcss-contrast.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "css",
+    "contrast",
+    "colors"
+  ],
+  "author": "Marcin Kokoszka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cocoshka/tailwindcss-contrast/issues"
+  },
+  "homepage": "https://github.com/cocoshka/tailwindcss-contrast#readme",
+  "devDependencies": {
+    "postcss": "^7.0.32",
+    "tailwindcss": "^1.4.6"
+  }
+}
