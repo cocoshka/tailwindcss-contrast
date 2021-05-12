@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/cocoshka/tailwindcss-contrast#readme",
   "devDependencies": {
-    "postcss": "^7.0.32",
+    "postcss": "^8.2.10",
     "tailwindcss": "^1.4.6"
   }
 }
